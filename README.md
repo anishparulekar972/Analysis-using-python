@@ -4,6 +4,6 @@ This analysis aims to explore and uncover meaningful insights from Rolling Stone
 
 The analysis will focus on key attributes such as:
 
-# Genres: Examining the distribution of genres within the list and identifying the most prominent musical styles.
-# Release Year: Analyzing how the rankings of albums have changed over time and identifying trends based on the era of release.
-# Artists: Investigating the frequency of individual artists or bands on the list and the relationship between artist popularity and album ranking.
+ Genres: Examining the distribution of genres within the list and identifying the most prominent musical styles.
+ Release Year: Analyzing how the rankings of albums have changed over time and identifying trends based on the era of release.
+ Artists: Investigating the frequency of individual artists or bands on the list and the relationship between artist popularity and album ranking.
